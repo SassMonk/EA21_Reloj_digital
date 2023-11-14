@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.container {
+    text-align: center;
+}
+
+.reloj {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.mensaje {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #333;
+}
+
+.mensaje-dia {
+    color: #264426; /* verde */
+}
+
+.mensaje-tarde {
+    color: #ff9900; /* naranja */
+}
+
+.mensaje-noche {
+    color: #3366cc; /* azul */
+}

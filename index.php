@@ -18,7 +18,7 @@
         let mm = date.getMinutes();
         let ss = date.getSeconds();
         let session = "AM";
-osgoerigjoerijgvsvs
+
           
         if(hh > 12){
             session = "PM";
